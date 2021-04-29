@@ -145,7 +145,7 @@ p {
   justify-content: flex-start;
 }
 .category-title{
-  flex: 0 0 calc(16.6667% - 10px);
+  flex: 0 0 calc(20% - 10px);
   display: flex;
   justify-content:center;
   background: #a8a8a8;

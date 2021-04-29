@@ -106,9 +106,9 @@ header .navigation a:hover{
 }
 
 button{
-  border-radius: 50px;
+  border-radius: 30px;
   border: #000 2px solid;
-  height: 50px;
+  height: 60px;
   cursor: pointer;
   letter-spacing: 2px;
   padding: 10px 20px;
